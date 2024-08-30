@@ -1,0 +1,14 @@
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.AssemblyInfoInputs.cache
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.AssemblyInfo.cs
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.csproj.CoreCompileInputs.cache
+D:\PERSONAL\acredimex\check_time_api\bin\Debug\net8.0\check_time_api.exe
+D:\PERSONAL\acredimex\check_time_api\bin\Debug\net8.0\check_time_api.deps.json
+D:\PERSONAL\acredimex\check_time_api\bin\Debug\net8.0\check_time_api.runtimeconfig.json
+D:\PERSONAL\acredimex\check_time_api\bin\Debug\net8.0\check_time_api.dll
+D:\PERSONAL\acredimex\check_time_api\bin\Debug\net8.0\check_time_api.pdb
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.dll
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\refint\check_time_api.dll
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.pdb
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\check_time_api.genruntimeconfig.cache
+D:\PERSONAL\acredimex\check_time_api\obj\Debug\net8.0\ref\check_time_api.dll
