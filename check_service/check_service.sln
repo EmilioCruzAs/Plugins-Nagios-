@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_service", "D:\PERSONAL\acredimex\plugins_nagios\check_service\check_service.csproj", "{6C9CEB89-7526-4732-B3B2-A8106F882263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C9CEB89-7526-4732-B3B2-A8106F882263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9CEB89-7526-4732-B3B2-A8106F882263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9CEB89-7526-4732-B3B2-A8106F882263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9CEB89-7526-4732-B3B2-A8106F882263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

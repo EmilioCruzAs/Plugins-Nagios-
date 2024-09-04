@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\check_time_api.csproj": {}
+    "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_service\\check_service.csproj": {}
   },
   "projects": {
-    "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\check_time_api.csproj": {
+    "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_service\\check_service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\check_time_api.csproj",
-        "projectName": "check_time_api",
-        "projectPath": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\check_time_api.csproj",
+        "projectUniqueName": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_service\\check_service.csproj",
+        "projectName": "check_service",
+        "projectPath": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_service\\check_service.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\obj\\",
+        "outputPath": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

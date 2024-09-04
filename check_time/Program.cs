@@ -67,7 +67,12 @@ public class Program
             if(args.Length==0)
             {
                 Console.WriteLine("No se especifico ningun argumento");
+                Console.WriteLine("--help para obtener mas informacion");
                 Environment.Exit(CRITICAL);
+            }else if(args.Length==1){
+                Console.WriteLine("Falta un argumento");
+                  Console.WriteLine("--help para obtener mas informacion");
+                 Environment.Exit(CRITICAL);
             }
             string direction_ip = args[0];
             string token = args[1];

@@ -1,0 +1,15 @@
+D:\PERSONAL\acredimex\plugins_nagios\check_service\bin\Debug\net8.0\check_service.exe
+D:\PERSONAL\acredimex\plugins_nagios\check_service\bin\Debug\net8.0\check_service.deps.json
+D:\PERSONAL\acredimex\plugins_nagios\check_service\bin\Debug\net8.0\check_service.runtimeconfig.json
+D:\PERSONAL\acredimex\plugins_nagios\check_service\bin\Debug\net8.0\check_service.dll
+D:\PERSONAL\acredimex\plugins_nagios\check_service\bin\Debug\net8.0\check_service.pdb
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.AssemblyInfoInputs.cache
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.AssemblyInfo.cs
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.csproj.CoreCompileInputs.cache
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.sourcelink.json
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.dll
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\refint\check_service.dll
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.pdb
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\check_service.genruntimeconfig.cache
+D:\PERSONAL\acredimex\plugins_nagios\check_service\obj\Debug\net8.0\ref\check_service.dll

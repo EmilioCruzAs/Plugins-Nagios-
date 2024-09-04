@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUVoUf5L90c=",
+  "dgSpecHash": "YPhg6ZiV+Gw=",
   "success": true,
-  "projectFilePath": "D:\\PERSONAL\\acredimex\\check_time_api\\check_time_api.csproj",
+  "projectFilePath": "D:\\PERSONAL\\acredimex\\plugins_nagios\\check_time\\check_time_api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
